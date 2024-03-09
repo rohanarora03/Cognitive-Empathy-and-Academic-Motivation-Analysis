@@ -1,4 +1,4 @@
-# Cognitive-Empathy-and-Academic-Motivation-Analysis
+# Exploratory Data Analysis on Cognitive Empathy and Academic Motivation among Medical Students
 
 **Description:**
 This repository contains an exploratory data analysis (EDA) on the Medical Student Mental Health dataset [Kaggle dataset](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health), conducted to investigate the relationship between cognitive empathy and academic motivation among males, considering job status as a potential factor. The dataset explores empathy, mental health, and burnout among medical students in Switzerland.
